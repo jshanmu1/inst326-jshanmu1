@@ -1,1 +1,4 @@
-I am using google AI to assist with python syntax 
+Journal Entry 9/13
+I am using google AI to assist with python syntax, it helped me out because I have usually only programmed in Java so I had to look up
+How to write the logic I wanted to use in python. I also used google AI to search up what the function I was told to use did
+because I have not heard of some of the functions. 
