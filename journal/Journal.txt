@@ -8,3 +8,6 @@ Me and my group mates used ChatGPT to help us brainstorm some ideas and to help 
 I also used Gemini when doing my excercises to either learn what the syntax for some of the problems should be or to
 solve the problems that I did not know how to do. Number 30 was mostly gemini because I did not understand what the problem 
 was asking me to do. 
+
+Week 3 Journal Entry 9/27 
+I used Google Gemini to check my work for these excercises. I also used Copilot to finish off the code that I was writing.
