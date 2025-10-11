@@ -15,3 +15,7 @@ I used Google Gemini to check my work for these excercises. I also used Copilot 
 Week 4 Journal Entry 10/5 
 I used Google Gemini to check my work for these excercises. I also used Copilot to finish off the code that I was writing.
 I also used Chatgpt to help create names of functions for the group project
+
+Week 5 Journal Entry 10/10 
+I used Google Gemini and GitHub Copilot to help me with some of the syntax in my code
+I also used ChatGPT for help with some of the functions for project 1
