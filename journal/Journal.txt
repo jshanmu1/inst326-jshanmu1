@@ -25,3 +25,6 @@ I used Google Gemini for some help with logic in my code
 
 Week 7 Journal Entry 10/30 
 I used ChatGPT and Google Gemini to help me write code for my excercises and for some of Project 2
+
+Week 8 Journal Entry 11/9
+I used Claude, ChatGPT and Google Gemini to help me write and understand my code for excercise 8
