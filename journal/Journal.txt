@@ -28,3 +28,8 @@ I used ChatGPT and Google Gemini to help me write code for my excercises and for
 
 Week 8 Journal Entry 11/9
 I used Claude, ChatGPT and Google Gemini to help me write and understand my code for excercise 8
+
+Week 9 Journal Entry 11/16
+Week 8 Journal Entry 11/9
+I used Claude, ChatGPT and Google Gemini to help me write and understand my code for excercise 9
+The code that it gave me was good quality and helped me understand the tasks that I needed to do
