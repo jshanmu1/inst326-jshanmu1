@@ -37,3 +37,6 @@ Week 10 Journal Entry 11/23
 I used Claude, ChatGPT and Google Gemini to help me write and understand my code for excercise 10
 The code that it gave me helped me understand the tasks that I needed to do
 I also used it with help for my project class it was good code and it made sense to use.
+
+Week 12 Journal Entry 12/7
+I did not use any AI learning models this week. I did not have any tasks where I needed the help of an AI model.
