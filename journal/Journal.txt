@@ -40,3 +40,6 @@ I also used it with help for my project class it was good code and it made sense
 
 Week 12 Journal Entry 12/7
 I did not use any AI learning models this week. I did not have any tasks where I needed the help of an AI model.
+
+Week 13 Journal Entry 12/14 
+I used ChatGPT and Claude to help with the final project. ChatGPT was very helpful in helping me find what mistakes I was making.
